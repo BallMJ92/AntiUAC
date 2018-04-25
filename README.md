@@ -1,6 +1,7 @@
 # AntiUAC
 
 **Overview**
+
 Method for bypassing Windows UAC and installing very light applications without Administrator privileges
 
 **Usage**
