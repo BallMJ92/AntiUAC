@@ -19,9 +19,3 @@ Method for bypassing UAC and installing light applications within a Microsoft Wi
 6 - When going through the installation settings, make the application install withinin the subfolder created at step 2.
 Make sure to not install unnecessary plugins and untick any box that appears asking for the application to install 
 within the 'AppData' folder.
-
-**Testing**
-
-Windows 7 - Working
-
-Windows 10 - Working
