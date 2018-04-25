@@ -6,13 +6,13 @@ Method for bypassing Windows UAC and installing very light applications without 
 
 **Usage**
 
-1 - Create a folder on your desktop and save the 'noadmin' batch file within it
+1 - Create a folder on your desktop and save the 'AntiAdmin' batch file within it
 
 2 - Create a subfolder to hold the extracted application files
 
 3 - Download Application and place .exe file inside the main folder on the desktop.
 
-4 - Drag and drop .exe file onto noamdin batch file
+4 - Drag and drop .exe application file onto the 'AntiAdmin'batch file
 
 5 - UAC will now be disabled which will allow you to run through the motions of installing the application
 
