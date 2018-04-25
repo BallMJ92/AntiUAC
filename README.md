@@ -1,7 +1,9 @@
 # AntiUAC
+
+**Overview**
 Method for bypassing Windows UAC and installing very light applications without Administrator privileges
 
-# Instructions for use
+**Usage**
 
 1 - Create a folder on your desktop and save the 'noadmin' batch file within it
 
